@@ -6,19 +6,19 @@
 
 ## 🌸 About Me
 
-🎓 Computer Science student exploring **AI, Data Science, and Software Engineering**
+ Computer Science student exploring **AI, Data Science, and Software Engineering**
 
-🧠 Currently learning **Machine Learning, Neural Networks, and real-world data analysis**
+ Currently learning **Machine Learning, Neural Networks, and real-world data analysis**
 
-🏗️ Building projects using **modern web technologies and Python**
+ Building projects using **modern web technologies and Python**
 
-📊 Experimenting with **Kaggle datasets and notebooks**
+ Experimenting with **Kaggle datasets and notebooks**
 
-💡 Curious about **how intelligent systems learn, adapt, and make decisions**
+ Curious about **how intelligent systems learn, adapt, and make decisions**
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Amitouja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amitouja&show_icons=true&theme=tokyonight)
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Machine Learning algorithms and model evaluation  
 - Data analysis and visualization with Python  
@@ -59,19 +59,19 @@
 
 ---
 
-## 🧪 Fun Dev Facts
+##  Fun Dev Facts
 
-☕ Music + coding = ideal debugging environment  
-🧠 I prefer learning by building small experiments  
-🌸 Turning ideas into working prototypes
+ Music + coding = ideal debugging environment  
+ I prefer learning by building small experiments  
+ Turning ideas into working prototypes
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 GitHub → https://github.com/Amitouja  
 Kaggle → https://www.kaggle.com/amitoujabosetagore  
 
 ---
 
-✨ *Still learning, still building, still curious.*
+ *Still learning, still building, still curious.*
