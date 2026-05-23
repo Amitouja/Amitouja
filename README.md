@@ -41,12 +41,12 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>
 
-## GitHub Stats
-
-![Amitouja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amitouja&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitouja&layout=compact&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitouja&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitouja&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ##  Currently Learning
 
