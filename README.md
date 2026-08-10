@@ -4,17 +4,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Machine+Learning+%7C+Data+Science;Full+Stack+Developer;Kaggle+%7C+Notebooks+%7C+Experiments;Shipping+code%2C+one+commit+at+a+time" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=amitouja&label=Profile+Views&color=00FF9C&style=flat-square" />
-</p>
-
 ---
 
-### `whoami`
+### `about me`
 
 ```
 CS student focused on AI, Data Science, and Software Engineering.
-Currently working through Machine Learning, Neural Networks, and applied data analysis.
 Building with modern web tooling and Python.
 Running experiments on Kaggle datasets and notebooks.
 Interested in how systems learn, adapt, and make decisions.
